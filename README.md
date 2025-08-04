@@ -39,7 +39,7 @@ A fully functional and interactive calculator built using HTML, CSS, and JavaScr
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/calculator-web-app.git
+git clone https://github.com/Tejaswimadastu/SCT_WD_2.git
 
 # Open index.html in your browser
 
