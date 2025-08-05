@@ -51,4 +51,6 @@ calculator-web-app/
 ├── style.css        # Styling
 ├── script.js        # JavaScript functionality
 └── README.md        # Project documentation
+Live Preview at 
 
+https://tejaswimadastu.github.io/SCT_WD_2/
